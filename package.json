@@ -1,0 +1,28 @@
+{
+    "name": "nodejs-vue-react-crud",
+    "version": "1.0.0",
+    "description": "Cosas que incluye:",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon index.js",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jrey1977/nodejs-vue-crud.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jrey1977/nodejs-vue-crud/issues"
+    },
+    "homepage": "https://github.com/jrey1977/nodejs-vue-crud#readme",
+    "devDependencies": {
+        "nodemon": "^2.0.18"
+    },
+    "dependencies": {
+        "express": "^4.18.1",
+        "express-handlebars": "^6.0.6"
+    }
+}
